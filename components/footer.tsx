@@ -27,7 +27,7 @@ export default function Footer() {
               
               <div className="flex items-center">
                 <Mail size={16} className="mr-3 text-emerald-400" />
-                <span>info@bellavista.com</span>
+                <span>info@hyperswap.com</span>
               </div>
             </div>
           </div>

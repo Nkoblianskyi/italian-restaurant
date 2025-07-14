@@ -46,7 +46,7 @@ export default function PrivacyPage() {
               <p className="text-gray-600 leading-relaxed">
                 If you have any questions about this Privacy Policy, please contact us at:
                 <br />
-                Email: privacy@bellavista.com
+                Email: privacy@hyperswap.com
 
               </p>
             </section>

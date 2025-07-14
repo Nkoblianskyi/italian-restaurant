@@ -49,7 +49,7 @@ export default function ThankYouModal({ isOpen, onClose }: ThankYouModalProps) {
             <div className="flex justify-center space-x-6 text-sm">
               <div className="flex items-center text-charcoal-700">
                 <Mail size={16} className="mr-2 text-emerald-600" />
-                <span className="text-charcoal-700">reservations@bellavista.com</span>
+                <span className="text-charcoal-700">reservations@hyperswap.com</span>
               </div>
             </div>
 

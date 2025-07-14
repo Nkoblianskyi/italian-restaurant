@@ -78,7 +78,7 @@ export default function NotFound() {
                 </div>
                 <h4 className="font-medium text-charcoal-800 mb-2">Contact Us</h4>
                 <p className="text-sm text-charcoal-600 mb-2">(555) 123-4567</p>
-                <p className="text-sm text-charcoal-600">info@bellavista.com</p>
+                <p className="text-sm text-charcoal-600">info@vista.com</p>
               </div>
             </div>
           </div>

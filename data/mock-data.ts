@@ -4,7 +4,7 @@ export const restaurantData = {
   contact: {
     address: "123 Italian Street, City Center",
     phone: "(555) 123-4567",
-    email: "info@bellavista.com",
+    email: "info@hyperswap.com",
   },
   hours: {
     weekdays: "Mon-Thu: 11:30 AM - 10:00 PM",

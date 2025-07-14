@@ -66,7 +66,7 @@ export default function ReservationPage() {
                   <div>
                     <h3 className="text-xl font-medium mb-4 text-white">Contact</h3>
                     <div className="space-y-2 text-white/90">
-                      <p>Email: reservations@bellavista.com</p>
+                      <p>Email: reservations@hyperswap.com</p>
                     </div>
                   </div>
 
