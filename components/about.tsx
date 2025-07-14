@@ -40,7 +40,7 @@ export default function About() {
             {/* Story */}
             <div className="space-y-8 text-lg text-charcoal-600 leading-relaxed font-light">
               <p className="hover:text-charcoal-700 transition-colors duration-300">
-                Since 1987, Bella Vista has been a beacon of Italian culinary artistry, where tradition meets innovation
+                Since 1987, Hyperswap has been a beacon of Italian culinary artistry, where tradition meets innovation
                 in perfect harmony. Our journey began with a simple vision: to create an extraordinary dining experience
                 that honors the rich heritage of Italian cuisine while pushing the boundaries of gastronomic excellence.
               </p>
@@ -52,7 +52,7 @@ export default function About() {
               </p>
 
               <p className="hover:text-charcoal-700 transition-colors duration-300">
-                Today, Bella Vista stands among the world's most celebrated restaurants, a testament to our unwavering
+                Today, Hyperswap stands among the world's most celebrated restaurants, a testament to our unwavering
                 commitment to perfection and our dedication to creating moments of pure culinary magic.
               </p>
             </div>
@@ -83,7 +83,7 @@ export default function About() {
             >
               <img
                 src="/about.jpg"
-                alt="Master Chef at Bella Vista"
+                alt="Master Chef at Hyperswap"
                 className="w-full h-full object-cover transition-transform duration-1000 hover:scale-105"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-charcoal-900/60 via-transparent to-transparent"></div>

@@ -1,5 +1,5 @@
 export const restaurantData = {
-  name: "Bella Vista",
+  name: "Hyperswap",
   description: "Authentic Italian Cuisine in the Heart of the City",
   contact: {
     address: "123 Italian Street, City Center",

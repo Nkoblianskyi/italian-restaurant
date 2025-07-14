@@ -27,7 +27,7 @@ export default function ClientLayout({
   return (
     <html lang="en">
       <head>
-        <title>Bella Vista - Authentic Italian Restaurant</title>
+        <title>Hyperswap - Authentic Italian Restaurant</title>
         <meta name="description" content="Experience the finest Italian cuisine in an elegant atmosphere" />
       </head>
       <body className={`${inter.variable} ${playfair.variable} font-sans`}>

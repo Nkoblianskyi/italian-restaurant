@@ -18,7 +18,7 @@ export default function Hero() {
         <div className="absolute inset-0 bg-luxury-gradient opacity-20"></div>
         <img
           src="/bg.jpg"
-          alt="Bella Vista Luxury Interior"
+          alt="Hyperswap Luxury Interior"
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-b from-charcoal-900/60 via-charcoal-900/40 to-charcoal-900/80"></div>
@@ -63,7 +63,7 @@ export default function Hero() {
           }`}
         >
           <h1 className="text-7xl md:text-9xl font-serif font-light text-white mb-6 tracking-tight leading-none">
-            Bella Vista
+            Hyperswap
           </h1>
           <div className="w-32 h-px bg-gold-500 mx-auto mb-8"></div>
         </div>

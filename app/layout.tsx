@@ -3,9 +3,8 @@ import type { Metadata } from "next"
 import ClientLayout from "./ClientLayout"
 
 export const metadata: Metadata = {
-  title: "Bella Vista - Authentic Italian Restaurant",
+  title: "Hyperswap - Authentic Italian Restaurant",
   description: "Experience the finest Italian cuisine in an elegant atmosphere",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({

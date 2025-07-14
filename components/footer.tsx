@@ -7,7 +7,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-8 lg:px-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-12">
           <div>
-            <h3 className="text-2xl font-serif font-light mb-6 text-white">Bella Vista</h3>
+            <h3 className="text-2xl font-serif font-light mb-6 text-white">Hyperswap</h3>
             <p className="text-charcoal-300 mb-6 leading-relaxed">
               Authentic Italian cuisine in the heart of the city. Experience the taste of Italy with every bite.
             </p>
@@ -69,7 +69,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-charcoal-700 mt-12 pt-8 text-center text-charcoal-400">
-          <p>&copy; 2025 Bella Vista. All rights reserved.</p>
+          <p>&copy; 2025 Hyperswap. All rights reserved.</p>
         </div>
       </div>
     </footer>

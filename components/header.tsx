@@ -44,7 +44,7 @@ export default function Header() {
 
             <div className="flex flex-col">
               <span className="text-2xl font-serif font-bold text-charcoal-900 group-hover:text-emerald-700 transition-colors duration-300">
-                Bella Vista
+                Hyperswap
               </span>
               
             </div>
